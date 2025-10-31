@@ -1,0 +1,40 @@
+.content-container{
+    padding-left: 10px;
+    padding-top: 15px;
+    height:160px;
+    width:600px;
+    border:solid black 1px;
+    display:flex;
+    border-radius: 1rem;
+}
+
+img{
+    border-radius: 1rem;
+}
+
+.data-container-parent{
+    display:flex;
+    flex-direction: column;
+    gap:20px;
+    margin-left:20px;
+}
+
+.data-container{
+    display:flex;
+    gap:50px;
+
+}
+
+.the-contact-submit{
+    display:flex;
+    gap:100px;
+}
+
+.button-submit{
+    padding:2px;
+    background-color: #0763b4;
+    border-color: #0763b4;
+    color: white;
+    border-radius: 0.25rem;
+    margin-bottom: 10px;
+}

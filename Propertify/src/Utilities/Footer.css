@@ -1,0 +1,39 @@
+.footer_text{
+    color: white;
+}
+  .row {
+    padding: 1em 1em;
+  }
+  .copyright {
+    background-color: #25262e;
+  }
+  .footer-menu{
+    float: left;
+      margin-top: 10px;
+  }
+  
+  .footer-menu a{
+    color: #cfd2d6;
+    padding: 6px;
+  
+    text-decoration: none;
+  }
+  .footer-menu a:hover{
+    color: #27bcda;
+  }
+  .copyright p {
+    font-size: 0.9em;
+    text-align: right;
+  }
+  footer{
+    width:100%;
+    position:fixed;
+    left:0;
+    bottom:0;
+    }
+  /* @media screen and (max-width: 850px) {
+    .row.primary {
+      grid-template-columns: 1fr;
+    }
+  
+  } */
