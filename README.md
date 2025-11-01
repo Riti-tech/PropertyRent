@@ -27,8 +27,6 @@ Homify/
 │ └── package.json
 └── README.md
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/52a30ca1-a68f-4cee-be78-a0ec48c2974a" />
-
 bash
 Copy code
 
@@ -80,4 +78,8 @@ Method	Endpoint	Description
 GET	/	Server status
 POST	/login	Login (expects name & password)
 POST	/register	Register new user
+
+Images
+Screenshot[1]
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/52a30ca1-a68f-4cee-be78-a0ec48c2974a" />
 
