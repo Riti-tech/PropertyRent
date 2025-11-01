@@ -79,7 +79,7 @@ GET	/	Server status
 POST	/login	Login (expects name & password)
 POST	/register	Register new user
 
-![Project Screenshot1]()
+![Project Screenshot1](https://github.com/Riti-tech/PropertyRent/blob/388034e00966fc956188f8afad4b7eed5c3164e0/Screenshot%20(252).png)
 ![Project Screenshot2]()
 ![Project Screenshot3]()
 ![Project Screenshot4]()
