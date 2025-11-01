@@ -79,9 +79,20 @@ GET	/	Server status
 POST	/login	Login (expects name & password)
 POST	/register	Register new user
 
-![App Screenshot](https://github.com/Riti-tech/PropertyRent/blob/e111ead190a20726b774a665b1bb3956acc8128d/Screenshot%20(252).png?raw=true)
+## 🖼️ Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/Riti-tech/PropertyRent/e111ead190a20726b774a665b1bb3956acc8128d/Screenshot%20(252).png)
+### Homepage
+![Homepage Screenshot](https://raw.githubusercontent.com/Riti-tech/PropertyRent/main/Screenshot%20(252).png)
+
+### Search Page
+![Search Page Screenshot](https://raw.githubusercontent.com/Riti-tech/PropertyRent/main/Screenshot%20(253).png)
+
+### Listing Page
+![Listing Page Screenshot](https://raw.githubusercontent.com/Riti-tech/PropertyRent/main/Screenshot%20(254).png)
+
+### Login Page
+![Login Page Screenshot](https://raw.githubusercontent.com/Riti-tech/PropertyRent/main/Screenshot%20(255).png)
+
 
 
 
