@@ -81,6 +81,7 @@ POST	/register	Register new user
 
 ![App Screenshot](https://github.com/Riti-tech/PropertyRent/blob/e111ead190a20726b774a665b1bb3956acc8128d/Screenshot%20(252).png?raw=true)
 
+![App Screenshot](https://raw.githubusercontent.com/Riti-tech/PropertyRent/e111ead190a20726b774a665b1bb3956acc8128d/Screenshot%20(252).png)
 
 
 
