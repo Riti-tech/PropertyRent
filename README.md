@@ -79,20 +79,3 @@ GET	/	Server status
 POST	/login	Login (expects name & password)
 POST	/register	Register new user
 
-## 🖼️ Screenshots
-
-### Homepage
-![Homepage Screenshot](https://raw.githubusercontent.com/Riti-tech/PropertyRent/main/Screenshot(252).png)
-
-### Search Page
-![Search Page Screenshot](https://raw.githubusercontent.com/Riti-tech/PropertyRent/main/Screenshot(253).png)
-
-### Listing Page
-![Listing Page Screenshot](https://raw.githubusercontent.com/Riti-tech/PropertyRent/main/Screenshot(254).png)
-
-### Login Page
-![Login Page Screenshot](https://raw.githubusercontent.com/Riti-tech/PropertyRent/main/Screenshot(255).png)
-
-
-
-
